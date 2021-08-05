@@ -1,3 +1,3 @@
 # Repository curso git-github
-Repositório do curso de Git r GitHub
+Repositório do curso de Git e GitHub
  
